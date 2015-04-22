@@ -21,6 +21,17 @@
 		18311A3E18CDCBE4001A2069 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 18311A2018CDCBE4001A2069 /* UIKit.framework */; };
 		18311A4618CDCBE4001A2069 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 18311A4418CDCBE4001A2069 /* InfoPlist.strings */; };
 		18311A4818CDCBE4001A2069 /* ButtonExTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 18311A4718CDCBE4001A2069 /* ButtonExTests.m */; };
+		18311A5218CDCF66001A2069 /* image.png in Resources */ = {isa = PBXBuildFile; fileRef = 18311A5118CDCF66001A2069 /* image.png */; };
+		18DE499E18CDD5D900270413 /* anna.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 18DE499418CDD5D900270413 /* anna.jpg */; };
+		18DE49A018CDD5D900270413 /* el'za.png in Resources */ = {isa = PBXBuildFile; fileRef = 18DE499618CDD5D900270413 /* el'za.png */; };
+		18DE49A118CDD5D900270413 /* kristoff.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 18DE499718CDD5D900270413 /* kristoff.jpg */; };
+		18DE49A218CDD5D900270413 /* olov.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 18DE499818CDD5D900270413 /* olov.jpg */; };
+		18DE49A318CDD5D900270413 /* olov2.png in Resources */ = {isa = PBXBuildFile; fileRef = 18DE499918CDD5D900270413 /* olov2.png */; };
+		18DE49A418CDD5D900270413 /* olov3.png in Resources */ = {isa = PBXBuildFile; fileRef = 18DE499A18CDD5D900270413 /* olov3.png */; };
+		18DE49A518CDD5D900270413 /* princ.png in Resources */ = {isa = PBXBuildFile; fileRef = 18DE499B18CDD5D900270413 /* princ.png */; };
+		18DE49A618CDD5D900270413 /* swen.png in Resources */ = {isa = PBXBuildFile; fileRef = 18DE499C18CDD5D900270413 /* swen.png */; };
+		18DE49A718CDD5D900270413 /* vse .png in Resources */ = {isa = PBXBuildFile; fileRef = 18DE499D18CDD5D900270413 /* vse .png */; };
+		18DE49AB18CDD75200270413 /* cards.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 18DE49AA18CDD75200270413 /* cards.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +64,17 @@
 		18311A4318CDCBE4001A2069 /* ButtonExTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ButtonExTests-Info.plist"; sourceTree = "<group>"; };
 		18311A4518CDCBE4001A2069 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		18311A4718CDCBE4001A2069 /* ButtonExTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ButtonExTests.m; sourceTree = "<group>"; };
+		18311A5118CDCF66001A2069 /* image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image.png; sourceTree = "<group>"; };
+		18DE499418CDD5D900270413 /* anna.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = anna.jpg; sourceTree = "<group>"; };
+		18DE499618CDD5D900270413 /* el'za.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "el'za.png"; sourceTree = "<group>"; };
+		18DE499718CDD5D900270413 /* kristoff.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kristoff.jpg; sourceTree = "<group>"; };
+		18DE499818CDD5D900270413 /* olov.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = olov.jpg; sourceTree = "<group>"; };
+		18DE499918CDD5D900270413 /* olov2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = olov2.png; sourceTree = "<group>"; };
+		18DE499A18CDD5D900270413 /* olov3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = olov3.png; sourceTree = "<group>"; };
+		18DE499B18CDD5D900270413 /* princ.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = princ.png; sourceTree = "<group>"; };
+		18DE499C18CDD5D900270413 /* swen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = swen.png; sourceTree = "<group>"; };
+		18DE499D18CDD5D900270413 /* vse .png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "vse .png"; sourceTree = "<group>"; };
+		18DE49AA18CDD75200270413 /* cards.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cards.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +148,17 @@
 		18311A2318CDCBE4001A2069 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				18DE499418CDD5D900270413 /* anna.jpg */,
+				18DE499618CDD5D900270413 /* el'za.png */,
+				18DE499718CDD5D900270413 /* kristoff.jpg */,
+				18DE499818CDD5D900270413 /* olov.jpg */,
+				18DE499918CDD5D900270413 /* olov2.png */,
+				18DE49AA18CDD75200270413 /* cards.jpg */,
+				18DE499A18CDD5D900270413 /* olov3.png */,
+				18DE499B18CDD5D900270413 /* princ.png */,
+				18DE499C18CDD5D900270413 /* swen.png */,
+				18DE499D18CDD5D900270413 /* vse .png */,
+				18311A5118CDCF66001A2069 /* image.png */,
 				18311A2418CDCBE4001A2069 /* ButtonEx-Info.plist */,
 				18311A2518CDCBE4001A2069 /* InfoPlist.strings */,
 				18311A2818CDCBE4001A2069 /* main.m */,
@@ -228,9 +261,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18DE49A018CDD5D900270413 /* el'za.png in Resources */,
+				18DE49A718CDD5D900270413 /* vse .png in Resources */,
 				18311A3518CDCBE4001A2069 /* Images.xcassets in Resources */,
+				18DE49A318CDD5D900270413 /* olov2.png in Resources */,
+				18DE49A118CDD5D900270413 /* kristoff.jpg in Resources */,
+				18DE49A218CDD5D900270413 /* olov.jpg in Resources */,
+				18DE499E18CDD5D900270413 /* anna.jpg in Resources */,
 				18311A2718CDCBE4001A2069 /* InfoPlist.strings in Resources */,
+				18DE49A518CDD5D900270413 /* princ.png in Resources */,
 				18311A3018CDCBE4001A2069 /* Main.storyboard in Resources */,
+				18311A5218CDCF66001A2069 /* image.png in Resources */,
+				18DE49AB18CDD75200270413 /* cards.jpg in Resources */,
+				18DE49A418CDD5D900270413 /* olov3.png in Resources */,
+				18DE49A618CDD5D900270413 /* swen.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -460,6 +504,7 @@
 				18311A4D18CDCBE4001A2069 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		18311A4E18CDCBE4001A2069 /* Build configuration list for PBXNativeTarget "ButtonExTests" */ = {
 			isa = XCConfigurationList;
@@ -468,6 +513,7 @@
 				18311A5018CDCBE4001A2069 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
